@@ -1,0 +1,41 @@
+Travel Times Pvt Ltd
+Description:	A driver uses an app to track GPS coordinates as he 
+drives to work and back each day. The app collects the location and 
+elevation data. Data for about 200 trips are summarized in this data set.
+
+####################  Data source ########################:	
+Date of travel
+StartTime: when getting into the car
+DayOfWeek: the day name
+GoingTo: direction of travel
+Distance travelled in kilometers
+MaxSpeed: fastest speed recorded (all trips are on the 407 highway for some portion)
+AvgSpeed: the average speed for the entire trip
+AvgMovingSpeed: the average speed recorded only while the car is moving
+FuelEconomy: a rough estimate of fuel economy (it is inaccurate)
+TotalTime: duration of the entire trip, in minutes
+MovingTime: duration when the car was considered to be moving (i.e. not counting traffic delays, accidents, or time while the car is stationary)
+Take407All: is Yes if the 407 toll highway was taken for the entire trip. 
+I try to avoid taking the 407, taking slower back routes to save costs. 
+But some days I'm running late, or just lazy, and take it all the way.
+Comments
+
+###################################################################
+Data shape:	205 rows and 13 columns
+Usage restrictions:	None
+Contact person:	Kevin Dunn
+Contact details:
+Added here on:	09 January 2012 7:37
+Last updated:	11 November 2018 16:35
+#########################################################################
+
+Required to clean the Messy data properly and find some Inconsistencies in the data
+Which can be taken to the source data team to recitify on the source data, if any error are present.
+##### Do some Analysis to show any kind of Insights - Use Excel or Tableau for reporting.
+##### Create some Mocks up of the report and the analysis areas, which you will analyse.
+##### Proper Documentation of the report and findings need to be shared.
+
+Share  - Tableau Link - Documentation Public(URL)/ Report
+
+
+
